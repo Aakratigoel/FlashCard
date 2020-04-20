@@ -1,2 +1,0 @@
-1. To include external css file in the html file rel attribute is required, if you dont include the rel
-attribute the  style inside the css file is not loaded.
